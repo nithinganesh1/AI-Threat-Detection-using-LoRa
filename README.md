@@ -32,7 +32,7 @@ AI-Threat-Detection-using-LoRa/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone git@github.com:nithinganesh1/AI-Threat-Detection-using-LoRa.git
+git clone https://github.com/nithinganesh1/AI-Threat-Detection-using-LoRa.git
 cd AI-Threat-Detection-using-LoRa
 ```
 
