@@ -35,14 +35,28 @@ AI-Threat-Detection-using-LoRa/
 git clone https://github.com/nithinganesh1/AI-Threat-Detection-using-LoRa.git
 cd AI-Threat-Detection-using-LoRa
 ```
+### 2️⃣ Create & Activate Virtual Environment
 
-### 2️⃣ Install Dependencies
+Create a new Python virtual environment named **lora**:
+
+```bash
+python3 -m venv lora
+```
+
+Activate it:
+
+```bash
+source lora/bin/activate
+```
+
+---
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install ultralytics opencv-python
 ```
 
-### 3️⃣ Run Detection
+### 4️⃣ Run Detection
 
 ```bash
 python app.py
