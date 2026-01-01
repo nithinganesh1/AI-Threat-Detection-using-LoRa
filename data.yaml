@@ -1,0 +1,21 @@
+path: /content/drive/MyDrive/Projects/animal1_wepon_fire
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 11
+
+names:
+  0: deer
+  1: elephant
+  2: giraffe
+  3: human
+  4: other
+  5: tiger
+  6: wild_boar
+  7: zebra
+  8: handgun
+  9: fire
+  10: rifle
+
