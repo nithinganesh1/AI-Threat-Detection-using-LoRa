@@ -69,5 +69,4 @@ runs/detect/train/weights/best.pt
 * Border and security surveillance
 * Remote alert systems using LoRa
 
----
 
